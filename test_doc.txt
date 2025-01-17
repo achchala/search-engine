@@ -1,0 +1,73 @@
+docno: LA091189-0070
+internal id: 90300
+date: September 11, 1989
+headline: IN BRIEF: SCIENCE / MEDICINE; CATARACTS LINKED TO SMOKING
+document length: 171
+
+raw document:
+<DOC>
+<DOCNO> LA091189-0070 </DOCNO>
+<DOCID> 105894 </DOCID>
+<DATE>
+<P>
+September 11, 1989, Monday, Home Edition 
+</P>
+</DATE>
+<SECTION>
+<P>
+Metro; Part 2; Page 3; Column 5; Metro Desk 
+</P>
+</SECTION>
+<LENGTH>
+<P>
+160 words 
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+IN BRIEF: SCIENCE / MEDICINE; 
+</P>
+<P>
+CATARACTS LINKED TO SMOKING 
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+By From staff and wire reports 
+</P>
+</BYLINE>
+<TEXT>
+<P>
+Researchers at the Johns Hopkins Wilmer Eye Institute have found that men who 
+quit smoking 10 or more years ago have half the risk of smokers of developing 
+the most common type of cataracts, a condition in which the lens of the eye 
+becomes cloudy and later opaque when proteins inside the cells of the eye's 
+lens undergo structural change. By age 70, most people have some evidence of 
+nuclear cataracts, which form in the center of the lens. 
+</P>
+<P>
+"The mechanism by which smoking might damage the lens nucleus is unclear," said 
+Dr. Sheila K. West, the study's principal investigator. "Among the 
+possibilities is the damage from toxic byproducts in cigarette smoke. The 
+reduced cataract risk among the men who stopped smoking suggests that damage to 
+the lens may be reversible." 
+</P>
+<P>
+In the past, cataracts have been related solely to aging, and most 
+ophthalmologists believed that nothing could be done to alter the cataract's 
+course. From staff and wire reports 
+</P>
+</TEXT>
+<TYPE>
+<P>
+Brief; Column 
+</P>
+</TYPE>
+<SUBJECT>
+<P>
+CATARACTS; SMOKING; EYESIGHT; HEALTH HAZARDS; MEDICAL RESEARCH 
+</P>
+</SUBJECT>
+</DOC>
+
+
